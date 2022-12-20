@@ -1,16 +1,17 @@
 👋 Hi there ! 
 
+
 ### 💪 Skills
 
 ![KIMHYEMEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHYEMEE&show_icons=true&theme=buefy)
 
 #### Languages
 
-<img src="https://img.shields.io/badge/Python-#3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-#276DC3?style=plastic&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white"/>
 
 #### Tools
 
-<img src="https://img.shields.io/badge/Keras-#D00000?style=plastic&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-#FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
 
 ### 📃 Logs on Github
 
